@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+}
+header {
+    background-color: green;
+}
+aside {
+    background-color: red;    
+}
+article {
+    background-color: blue;
+}
+footer {
+    background-color: grey;
+}
